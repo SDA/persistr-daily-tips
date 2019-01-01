@@ -1,0 +1,21 @@
+{
+  "private": "true",
+  "name": "persistr-hugo-theme",
+  "version": "1.0.0",
+  "description": "Theme for Persistr Daily Tips Hugo Site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SDA/persistr-daily-tips.git"
+  },
+  "keywords": [
+    "hugo",
+    "persistr"
+  ],
+  "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SDA/persistr-daily-tips/issues"
+  },
+  "homepage": "https://github.com/SDA/persistr-daily-tips"
+}

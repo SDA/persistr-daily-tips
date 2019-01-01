@@ -1,0 +1,4 @@
+baseURL = "https://tips.persistr.com/"
+languageCode = "en-us"
+title = "Daily Tips | Persistr"
+theme = "persistr"
