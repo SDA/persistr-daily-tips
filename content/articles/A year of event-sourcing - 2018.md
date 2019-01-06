@@ -1,7 +1,6 @@
 ---
 title: "A year of event-sourcing - 2018"
 date: 2018-12-31T09:14:29-08:00
-draft: true
 ---
 
 In 2017, I decided to make event-sourcing more accessible to small teams. I'd been using event-sourcing architectures for about a decade. Even with my experience, I always found it difficult to set up event-sourcing on a new project. I thought there had to be a better way to make event-sourcing easier.
