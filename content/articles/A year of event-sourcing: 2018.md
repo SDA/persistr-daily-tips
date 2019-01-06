@@ -1,5 +1,5 @@
 ---
-title: "A year of event-sourcing - 2018"
+title: "A year of event-sourcing: 2018"
 date: 2018-12-31T09:14:29-08:00
 ---
 
