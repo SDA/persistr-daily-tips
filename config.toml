@@ -4,6 +4,7 @@ title = "Daily Tips | Persistr"
 theme = "persistr"
 mainSections = "articles"
 RSSLink = true
+rssLimit = 10
 
 [sitemap]
   changefreq = "daily"
