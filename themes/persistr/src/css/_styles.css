@@ -1,5 +1,49 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
+/*
+
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+Use font-face:
+font-family: "system";
+
+Serif:
+font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+
+Sans-serif:
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+
+*/
+
 #TableOfContents ul li {
   margin-bottom: 1em;
+}
+
+form {
+  max-width: auto;
+}
+
+input {
+  /* font-family: athelas, georgia, serif; */
+}
+
+form > div.minimal {
+  padding: 0;
+}
+
+.persistr-sans {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+  font-size: 110%;
+  line-height: 1.5rem;
+}
+
+.persistr-serif {
+  font-family: PT Serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 110%;
+  line-height: 1.5rem;
 }

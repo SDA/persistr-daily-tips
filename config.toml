@@ -2,3 +2,16 @@ baseURL = "https://tips.persistr.com/"
 languageCode = "en-us"
 title = "Daily Tips | Persistr"
 theme = "persistr"
+mainSections = "articles"
+RSSLink = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  background_color_class = "bg-white"
+  recent_posts_number = 40
+  logo_image = "/images/persistr.png"
+  organization = "Persistr"
