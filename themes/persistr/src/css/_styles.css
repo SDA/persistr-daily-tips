@@ -24,6 +24,13 @@ font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Aria
   margin-bottom: 1em;
 }
 
+blockquote {
+  border-left: 3px solid lightgray;
+  padding-inline-start: 20px;
+  padding-inline-end: 20px;
+  margin-inline-start: 2px;
+}
+
 form {
   max-width: auto;
 }
