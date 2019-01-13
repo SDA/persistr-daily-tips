@@ -15,11 +15,11 @@ I started building out a cloud-based, fully managed, event-sourcing platform tha
 
 - Stabilized and launched the Persistr REST API.
 
-- Launched the Persistr CLI, command-line interface for managing Persistr databases. The CLI accomplishes my vision for easy do-it-yourself provisioning of databases. It also provides convenient stream inspection, historical and real-time, useful for debugging.
+- Launched Persistr CLI, the command-line interface for managing Persistr databases. The CLI accomplishes my vision for easy do-it-yourself provisioning of databases. It also provides convenient stream inspection, historical and real-time, useful for debugging.
 
-- Launched [Persistr Docs](https://docs.persistr.com/), our online documentation platform. Currently, it provides documentation for the Persistr CLI.
+- Launched [Persistr Docs](https://docs.persistr.com/), our online documentation platform. Currently, it provides documentation for Persistr CLI.
 
-- Similarly, launched the Persistr JavaScript libraries, for Node.js and browsers. I am particularly happy with how these turned out, as they make event-sourcing incredibly easy.
+- Similarly, launched the Persistr JavaScript libraries for Node.js and web browsers. I am particularly happy with how these turned out, as they make event-sourcing incredibly easy.
 
 - Launched Persistr Console, a web application to visually browse events stored in your database.
 
