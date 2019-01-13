@@ -1,6 +1,6 @@
 ---
 title: "There are stories hidden in data"
-date: 2018-01-13T06:00:00-08:00
+date: 2019-01-13T06:00:00-08:00
 ---
 
 > If history were taught in the form of stories, it would never be forgotten.
