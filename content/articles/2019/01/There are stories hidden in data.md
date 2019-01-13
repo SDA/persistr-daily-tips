@@ -3,9 +3,8 @@ title: "There are stories hidden in data"
 date: 2019-01-13T00:30:00-08:00
 ---
 
-> If history were taught in the form of stories, it would never be forgotten.
-
-> - Rudyard Kipling
+> _If history were taught in the form of stories, it would never be forgotten._
+> _Rudyard Kipling_
 
 I recently read this quote from Kipling and it got me thinking. There are some deep insights in this statement.
 
