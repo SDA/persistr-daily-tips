@@ -5,6 +5,7 @@ theme = "persistr"
 mainSections = "articles"
 RSSLink = true
 rssLimit = 10
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [sitemap]
   changefreq = "daily"
@@ -16,3 +17,6 @@ rssLimit = 10
   recent_posts_number = 40
   logo_image = "/images/persistr.png"
   organization = "Persistr"
+
+[permalinks]
+  articles = "/:section/:title/"
