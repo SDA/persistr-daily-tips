@@ -52,5 +52,5 @@ form > div.minimal {
 .persistr-serif {
   font-family: PT Serif, Georgia, Cambria, "Times New Roman", Times, serif;
   font-size: 110%;
-  line-height: 1.5rem;
+  /* line-height: 1.5rem; */
 }
