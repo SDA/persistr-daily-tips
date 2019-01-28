@@ -31,6 +31,15 @@ blockquote {
   margin-inline-start: 2px;
 }
 
+code {
+  font-size: 0.85em;
+  background: #f6f6f6;
+  padding: 0.1em 0.3em;
+  border: 1px solid #e6e6e6;
+  color: #dd3535;
+  border-radius: 3px;
+}
+
 form {
   max-width: auto;
 }
