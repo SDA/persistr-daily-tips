@@ -1,5 +1,5 @@
 ---
-title: "A problem of connectivity"
+title: "The problem of connectivity"
 date: 2019-02-02T05:00:00-08:00
 ---
 
