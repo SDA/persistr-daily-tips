@@ -31,6 +31,10 @@ blockquote {
   margin-inline-start: 2px;
 }
 
+pre code {
+  color: #353535;
+}
+
 code {
   font-size: 0.85em;
   background: #f6f6f6;
