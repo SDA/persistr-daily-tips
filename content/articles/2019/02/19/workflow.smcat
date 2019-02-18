@@ -1,0 +1,21 @@
+initial,
+"waiting",
+failed [label="failed auth"] {
+  failed.initial, primed, warned, ^warn?;
+
+  failed.initial -> primed;
+  primed -> ^warn?: bad password / count--;
+  ^warn? -> primed: [count > 0];
+  ^warn? -> warned: [count == 0] / warn customer;
+
+  warned => locked : bad password;
+},
+locked;
+
+initial       => waiting;
+waiting       => failed : bad password;
+failed        => ]waiting : login succeeded;
+failed        => ]waiting : password reset;
+failed        => ]waiting : after 2 secs;
+]waiting      => waiting;
+locked        => waiting : password reset;

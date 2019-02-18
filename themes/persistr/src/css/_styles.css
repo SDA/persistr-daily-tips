@@ -56,6 +56,11 @@ form > div.minimal {
   padding: 0;
 }
 
+img,
+.nested-img img {
+  width: auto;
+}
+
 .persistr-sans {
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
   font-size: 110%;
