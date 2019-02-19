@@ -56,8 +56,8 @@ form > div.minimal {
   padding: 0;
 }
 
-img,
-.nested-img img {
+img[src$=".png"],
+.nested-img img[src$=".png"] {
   width: auto;
 }
 
@@ -69,6 +69,4 @@ img,
 
 .persistr-serif {
   font-family: PT Serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  /* font-size: 110%; */
-  /* line-height: 1.5rem; */
 }

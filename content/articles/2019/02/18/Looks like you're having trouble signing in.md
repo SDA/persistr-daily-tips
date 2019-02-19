@@ -31,7 +31,7 @@ An event-sourced system that used executable workflows would check all of the ab
 
 Here's what that might look like:
 
-![Example image](/images/articles/2019/02/19/trouble-signing-in.png)
+![Example image](/images/articles/2019/02/19/trouble-signing-in.svg.png)
 
 This is not just a diagram.
 
